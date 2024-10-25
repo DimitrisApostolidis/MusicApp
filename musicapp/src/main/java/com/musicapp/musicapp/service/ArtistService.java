@@ -1,7 +1,7 @@
-package com.musicapp.service;
+package com.musicapp.musicapp.service;
 
-import com.musicapp.model.Artist;
-import com.musicapp.repository.ArtistRepository;
+import com.musicapp.musicapp.model.Artist;
+import com.musicapp.musicapp.repository.ArtistRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,5 +1,4 @@
-package model;
-package com.musicapp.model;
+package com.musicapp.musicapp.model;
 
 import javax.persistence.*;
 
@@ -13,6 +12,4 @@ public class Artist {
     private String name;
     private String bio;
     private String imageUrl;
-
-public class Artist {
 }
